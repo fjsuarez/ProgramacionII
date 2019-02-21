@@ -1,0 +1,12 @@
+total 52
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb 21 08:02 ./
+drwxr-xr-x 23 ubuntu ubuntu 4096 Feb 21 08:00 ../
+-rw-r--r--  1 ubuntu ubuntu    0 Feb 21 08:02 directorio2.txt
+-rw-r--r--  1 ubuntu ubuntu  351 Feb 16 09:06 directorio.txt
+-rw-r--r--  1 ubuntu ubuntu 1335 Feb 16 09:08 memoria.txt
+-rwxr-xr-x  1 ubuntu ubuntu 8928 Feb 21 07:57 miprimerprograma*
+-rw-r--r--  1 ubuntu ubuntu  138 Feb 21 08:00 miprograma.cpp
+-rwxr-xr-x  1 ubuntu ubuntu 8928 Feb 21 08:01 misegundoprograma*
+-rw-r--r--  1 ubuntu ubuntu   34 Feb 16 09:04 pruebacat.txt
+-rw-r--r--  1 ubuntu ubuntu   21 Feb 16 09:03 pruebaecho.txt
+Esto es anexado al final

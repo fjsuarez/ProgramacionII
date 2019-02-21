@@ -1,0 +1,7 @@
+total 20
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb 16 09:06 ./
+drwxr-xr-x 23 ubuntu ubuntu 4096 Feb 16 08:34 ../
+-rw-r--r--  1 ubuntu ubuntu    0 Feb 16 09:06 directorio.txt
+-rw-r--r--  1 ubuntu ubuntu  104 Feb 14 08:38 miprograma.cpp
+-rw-r--r--  1 ubuntu ubuntu   34 Feb 16 09:04 pruebacat.txt
+-rw-r--r--  1 ubuntu ubuntu   21 Feb 16 09:03 pruebaecho.txt
