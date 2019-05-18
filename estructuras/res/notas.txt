@@ -1,0 +1,4 @@
+David 100 100 100
+Alfredo 80 30 65
+Ibrain 20 70 80
+Rodrigo 50 60 70
